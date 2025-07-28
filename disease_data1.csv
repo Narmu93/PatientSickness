@@ -1,0 +1,13 @@
+Age,Symptom1,Symptom2,Symptom3,Target(Disease)
+25,Fever,Cough,Headache,Corona
+45,Headache,Vomiting,Dizziness,Migraine
+30,Cough,Sore_Throat,Fever,Flu
+50,Chest_Pain,Shortness_of_Breath,Sweating,Heart_Attack
+35,Fatigue,Joint_Pain,Skin_Rash,Chikungunya
+60,Blurred_Vision,Nausea,Confusion,Stroke
+40,Fever,Body_Pain,Loss_of_Taste,Dengue
+28,Night_Sweats,Weight_Loss,Cough,Tuberculosis
+32,Fever,Cough,Dizziness,Flu
+48,Shortness_of_Breath,Chest_Pain,Fatigue,Heart_Attack
+34,Skin_Rash,Joint_Pain,Fever,Chikungunya
+29,Loss_of_Taste,Fatigue,Body_Pain,Dengue
